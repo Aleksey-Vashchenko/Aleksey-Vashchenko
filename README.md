@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Aleksey 👋
+<h3 align="center">Student of <a href="https://www.bsuir.by/">BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS<a/></h3>
 
 <!--
 **Aleksey-Vashchenko/Aleksey-Vashchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
