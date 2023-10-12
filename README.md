@@ -12,7 +12,7 @@ I learned basics of programming at my university in C/C++ (variables, operators,
 - Spring Framework (beginner)
 - Hibernate (beginner)
 - SQL (MySQL)
-- Python (base)
+
 #### Lenguage
 - English - B2
 - Russian - native
