@@ -11,6 +11,9 @@ I learned basics of programming at my university in C/C++ (variables, operators,
 - Java
 - Spring Framework (beginner)
 - Hibernate (beginner)
+- Spring MVC (beginner)
+- Spring JPA (beginner)
+- Spring Security (beginner)
 - SQL (MySQL)
 
 #### Lenguage
