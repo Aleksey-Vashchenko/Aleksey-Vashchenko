@@ -34,7 +34,7 @@ I learned basics of programming at my university in C/C++ (variables, operators,
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"  title="Intellij IDEA" alt="Intellij IDEA" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Framework" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Framework" width="60" height="60"/>&nbsp;
 </div>
 <br>
   
