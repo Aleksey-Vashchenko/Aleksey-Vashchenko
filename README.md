@@ -2,19 +2,21 @@
 <br>
 
 ## About me
-I'm 19 years old BSUIR student. My goal is to continue learning in Java and backend developing, because it always seemed incomprehensible and hidden on the side, but now I can create my own something new. I think now is time to get my first experience and accept the test of real development in a team with the same fire in the eyes. Also I have good soft skills, that can help me to work in team and make my dream come true.
+I'm 1=20 years old BSUIR student. My goal is to continue learning in Java and backend developing, because it always seemed incomprehensible and hidden on the side, but now I can create my own something new. I think now is time to get my first experience and accept the test of real development in a team with the same fire in the eyes. Also I have good soft skills, that can help me to work in team and make my dream come true.
 
 <br>
 
 ## About skills
 I learned basics of programming at my university in C/C++ (variables, operators, conditions, loops, data types, arrays, functions), scripting programming languages (Python). Also i learned OOP in Java, realize a course project (information system of accounting for goods in a pharmacy) using JavaFX and a local MySQL database (CRUD). Subjects as Computer Networks (IP, UDP, TCP) and Data Bases (SQL) helped me expand my knowledge in the field of IT. With this knowledge i started learn Java on a deppeer level and Spring framework and Hibernate.
 - Java
-- Spring Framework (beginner)
-- Hibernate (beginner)
-- Spring MVC (beginner)
-- Spring JPA (beginner)
-- Spring Security (beginner)
-- SQL (MySQL)
+- Spring Framework
+- Spring Boot
+- Hibernate 
+- Spring MVC 
+- Spring JPA
+- Spring Security 
+- SQL (MySQL, PostgreSQL)
+- gRPC
 
 #### Lenguage
 - English - B2
@@ -35,6 +37,8 @@ I learned basics of programming at my university in C/C++ (variables, operators,
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Framework" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPC" width="60" height="60"/>&nbsp;
 </div>
 <br>
   
