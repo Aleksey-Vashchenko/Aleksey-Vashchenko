@@ -2,7 +2,7 @@
 <br>
 
 ## About me
-I'm 1=20 years old BSUIR student. My goal is to continue learning in Java and backend developing, because it always seemed incomprehensible and hidden on the side, but now I can create my own something new. I think now is time to get my first experience and accept the test of real development in a team with the same fire in the eyes. Also I have good soft skills, that can help me to work in team and make my dream come true.
+I'm 20 years old BSUIR student. My goal is to continue learning in Java and backend developing, because it always seemed incomprehensible and hidden on the side, but now I can create my own something new. I think now is time to get my first experience and accept the test of real development in a team with the same fire in the eyes. Also I have good soft skills, that can help me to work in team and make my dream come true.
 
 <br>
 
